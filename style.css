@@ -1,0 +1,60 @@
+table td {
+    border-style: solid;
+    border-color: transparent;
+    width: 40px;
+    padding-top: 10px;
+    padding-left: 10px;
+    font-family: Arial, sans-serif;
+    font-size: 90%;
+    text-align: top;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 0.3cm;
+    padding-top: 0.5cm;
+}
+
+textarea {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    border-radius: 25px;
+    border-style: solid;
+    border-color: rgb(87, 86, 86);
+    bord
+}
+
+button {
+    border-radius: 4px;
+    border-color: transparent;
+    font-family: arial, sans-serif;
+    font-size: 14px;
+    height: 1cm;
+    width: 5cm;
+    margin-left: auto;
+    margin-right: auto;
+    cursor: pointer;
+}
+
+.button {
+    background-color: transparent;
+    text-align: center;
+}
+
+.footer {
+    background-color: rgb(223, 222, 222);
+    position: fixed;
+    bottom: 0in;
+    width: 100%;
+    border-style: solid;
+    text-align: left;
+    border-style: solid;
+    border-color: transparent;
+    font-family: Arial, sans-serif;
+    font-size: 100%;
+    color: grey;
+}
